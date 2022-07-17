@@ -1,0 +1,11 @@
+node_modules/
+lerna-debug.log
+npm-debug.log
+packages/*/lib
+.idea
+**/**/dist
+*.temp.*
+.log
+**.log
+coverage/
+lib/
