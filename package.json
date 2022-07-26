@@ -1,6 +1,6 @@
 {
 	"name": "@caiofeiertag/aspectts",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "Library for Aspect Oriented Programming in TypeScript",
 	"keywords": [
 		"Aspected Oriented Programming",
